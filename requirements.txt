@@ -1,4 +1,4 @@
 streamlit
 rdkit
 requests
-pillow
+Pillow
