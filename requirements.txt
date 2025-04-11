@@ -1,4 +1,4 @@
 streamlit
-rdkit
+rdkit-pypi
 requests
-Pillow
+pillow
